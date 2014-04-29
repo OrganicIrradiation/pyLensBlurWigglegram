@@ -10,7 +10,7 @@ The script loads the image produced by the Lens Blur function, extracts the orig
 
 ##Prerequisites
 You will need Python 2.7.6 and the following libraries (tested versions in parentheses):
-* images2gif (1.0.1)
+* images2gif - Compatible version included
 * numpy (1.8.1)
 * PIL (1.1.7)
 * scipy (0.13.3)
