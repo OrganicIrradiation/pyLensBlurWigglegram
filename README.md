@@ -29,10 +29,20 @@ python pyLensBlurWigglegram.py -h
 Here are demonstrations to process the included examples:
 ```
 python pyLensBlurWigglegram.py exampleimages/example1.jpg -ri 0.5
+```
+![Image](exampleimages/example1.gif)
+```
 python pyLensBlurWigglegram.py exampleimages/example2.jpg -ri 0.5
+```
+![Image](exampleimages/example2.gif)
+```
 python pyLensBlurWigglegram.py exampleimages/example3.jpg -o exampleimages/example3_focusclose.gif -d 0.1 -ri 0.5
+```
+![Image](exampleimages/example3_focusclose.gif)
+```
 python pyLensBlurWigglegram.py exampleimages/example3.jpg -o exampleimages/example3_focusfar.gif -d 0.9 -ri 0.5
 ```
+![Image](exampleimages/example3_focusfar.gif)
 
 ##Related Resources
 * [Information on identifying and extracting the depth map from a Lens Blur image](http://lunokhod.org/?p=1486)
